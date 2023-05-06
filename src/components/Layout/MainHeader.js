@@ -1,4 +1,5 @@
 import classes from './MainHeader.module.css';
+
 // Components
 import CartButton from '../Cart/CartButton';
 
